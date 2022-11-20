@@ -8,7 +8,7 @@
 # purposes.  The copyright owner does not offer any warranties or representations, nor do
 # they accept any liabilities with respect to them.
 
-This is a Acme-Courses D05 project for november retake of Design & Testing II.
+This is a Acme-Courses project for november retake of Design & Testing II.
 
 To get this project up and running, please follow the appropriate guideline, taking into 
 account that you must link Acme-Framework-22.8 excluding the following resources:
