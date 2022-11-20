@@ -41,11 +41,15 @@
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="C:/Users/DAN/Desktop/SpamDetector.jar">
+	<classpathentry exported="true" kind="lib" path="src/main/resources/lib/Acme-Framework-22.8.jar">
 		<attributes>
 			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
 		</attributes>
 	</classpathentry>
-	<classpathentry exported="true" kind="lib" path="src/main/resources/lib/Acme-Framework-22.8.jar"/>
+	<classpathentry kind="lib" path="src/main/resources/lib/SpamDetector.jar">
+		<attributes>
+			<attribute name="org.eclipse.jst.component.dependency" value="/WEB-INF/lib"/>
+		</attributes>
+	</classpathentry>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
